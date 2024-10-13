@@ -9,4 +9,3 @@ match value:
     case _ :
         result = -1
         print(result)
-        add = 6
