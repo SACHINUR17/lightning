@@ -1,0 +1,22 @@
+1. Microcontroller: STM32 (Assumed STM32F103 or STM32F4 series).
+
+
+2. Sensor: DHT11/DHT22 for humidity and temperature detection.
+
+
+3. IoT Communication: MQTT (over WiFi using ESP8266) or HTTP using a REST API.
+
+
+4. Development Environment: STM32CubeMX, Keil (or STM32CubeIDE).
+
+
+
+---> Necessary Components:
+
+1. STM32 microcontroller (e.g., STM32F103 or STM32F4).
+
+2. DHT11 or DHT22 sensor for temperature and humidity.
+
+3. ESP8266 module for WiFi communication.
+
+4. Power Supply (3.3V for ESP8266, 5V for STM32, or both depending on the board).
