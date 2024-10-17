@@ -22,9 +22,6 @@ ESP8266 module for WiFi communication.
 Power Supply (3.3V for ESP8266, 5V for STM32, or both depending on the board).
 
 
-
----
-
 Firmware for STM32 (using STM32CubeMX and HAL Library)
 
 1. Configure STM32CubeMX:
