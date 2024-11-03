@@ -2,7 +2,7 @@
 
 # lightning
 
-For any Query access my Personal Agent: [https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/11/03/08/20241103082150-Y8IO8CJE.json](url)
+For any Query access my Personal Agent: 🔗 [Bot](https://cdn.botpress.cloud/webchat/v2.2/shareable.html?configUrl=https://files.bpcontent.cloud/2024/11/03/08/20241103082150-Y8IO8CJE.json)
 
 Project Source Code Repository :
 Welcome to my project repository, where I store various source code files for projects written in C, C++, Python, and Java. This repository serves as a showcase of my coding skills and knowledge across different programming languages and technologies.
